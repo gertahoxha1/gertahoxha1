@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerta Hoxha</h1>
 <h3 align="center">A passionate frontend and backend developer from Kosova,Gjilan</h3>
 
-<h3 align="left">Connect with me:@gertahoxhaa</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
