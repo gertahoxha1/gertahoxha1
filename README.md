@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **some different college projects.**
 
-- 📫 How to reach me **gertahhoxha@gmail.com**
-  
 - 👨‍💻 All of my projects are available here, so go check them out!
+  
+- 📫 How to reach me **gertahhoxha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
