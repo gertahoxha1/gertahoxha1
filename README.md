@@ -1,6 +1,6 @@
 <h1 align="center">Hi im Gerta!</h1>
 
-<div align="center">![icegif-675](https://github.com/user-attachments/assets/3486ff14-8070-410a-bf1c-afcd1f09c50c) </div>
+![icegif-675](https://github.com/user-attachments/assets/3486ff14-8070-410a-bf1c-afcd1f09c50c) 
 
 <h3 align="center">A front-end and back-end developer in progress...</h3>
 
