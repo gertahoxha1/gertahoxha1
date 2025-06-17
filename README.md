@@ -1,8 +1,6 @@
 <h1 align="center">Hi im Gerta!</h1>
 
-![icegif-675](https://github.com/user-attachments/assets/3486ff14-8070-410a-bf1c-afcd1f09c50c) 
-
-<h3 align="center">A full stack developer in progress...</h3>
+<h3 align="center">A software engineer in progress...</h3>
 
 - 🔭 I’m currently working on **some different college projects.**
 
