@@ -2,7 +2,7 @@
 
 <h3 align="center">A software engineer in progress...</h3>
 
-- 🔭 I’m currently working on **some different college projects.**
+- 🔭 I’m currently learning React.js and TypeScript
 
 - 👨‍💻 All of my projects are available here, so go check them out!
   
